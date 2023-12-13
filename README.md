@@ -1,6 +1,6 @@
 <div>
-  <h1>Programa que calcula derivadas explícitas</h1>
-  <p>Programa para facilitar o estudo de Cálculo 1</p>
+  <h1>Baixar Mangá como PDF</h1>
+  <p>Programa criado para converter imagens disponibilizadas em sites de mangá, em PDF para a minha leitura.</p>
   <h1>(Esse projeto contém um errro que ainda não foi corrigido)</h1>
 </div>
 <div>
