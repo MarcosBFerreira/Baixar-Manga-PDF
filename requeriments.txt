@@ -1,0 +1,4 @@
+opencv-python
+img2pdf
+scikit-image
+pypdf
